@@ -1,4 +1,4 @@
-# ADK Text Summarizer Agent 🚀
+# ADK Text Summarizer Agent 
 
 **Production-ready AI agent** built with **Google ADK + Gemini** and deployed to **Cloud Run**.
 
